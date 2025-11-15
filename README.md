@@ -3,4 +3,5 @@
   having a of fun and excited hopefully it last till the end of the project.
   It is the first project so i thing it is not difficult. I just took random recipes and add them to the list and they all looks tasty soo yeaaaa
 ## 2 ToDo
-  want to add some CSS for design  
+  ~~want to add some CSS for design~~
+  added css style I think its look simple and sweet  
