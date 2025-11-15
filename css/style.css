@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightcoral;
+}
+
+.container{
+    color: black;
+    background-color: whitesmoke;
+    width: 400px;
+    padding: 16px;
+    margin: 32px auto;
+    text-align: center;
+}
+
+li{
+    margin: 10px;
+}
+
+img{
+    width: 360px;
+    height: auto;
+}
